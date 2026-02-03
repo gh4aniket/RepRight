@@ -192,7 +192,7 @@
       }
 
       startCamera().then(() => {
-        const url = `ws://localhost:8000/ws/${exercise}`;
+        const url = `wss://repright-5m3y.onrender.com/${exercise}`;
         ws = new WebSocket(url);
 
         ws.onopen = () => {
