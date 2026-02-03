@@ -67,7 +67,6 @@ This continuous WebSocket loop ensures **low latency and real-time responsivenes
 
 ---
 
-## 📁 Project Structure
 
 ## ⚙️ Installation & Running the Project
 
