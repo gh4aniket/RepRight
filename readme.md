@@ -2,7 +2,7 @@
 
 REPRIGHT is a **computer vision and AI/ML based web application** that acts as a virtual gym trainer. Using just a webcam, it continuously monitors a user’s exercise posture, provides real-time corrective feedback, visualizes body landmarks and joint angles, and automatically counts repetitions — helping users train **safely and correctly without a personal trainer**.
 
----
+
 
 ## 🔥 Inspiration
 
@@ -10,7 +10,7 @@ One day, while scrolling through social media reels, I came across a video of a 
 
 That moment made me realize how many people work out alone without guidance. Not everyone can afford a premium gym with a personal trainer assigned at all times. This led to the idea of **REPRIGHT** — an AI-powered virtual trainer that watches every rep, detects unsafe posture in real time, and gives instant corrective feedback.
 
----
+
 
 ## 🚀 What REPRIGHT Does
 
@@ -31,7 +31,7 @@ Supported exercises:
 - Lunges  
 - Push-ups  
 
----
+
 
 ## 🛠️ How We Built It
 
@@ -46,7 +46,7 @@ Supported exercises:
 
 This continuous WebSocket loop ensures **low latency and real-time responsiveness**.
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -65,7 +65,7 @@ This continuous WebSocket loop ensures **low latency and real-time responsivenes
 - MediaPipe
 - NumPy
 
----
+
 
 
 ## ⚙️ Installation & Running the Project
@@ -75,7 +75,7 @@ This continuous WebSocket loop ensures **low latency and real-time responsivenes
 - A device with a working webcam
 - A modern web browser (Google Chrome recommended)
 
----
+
 
 ### 1️⃣ Clone the Repository
 
